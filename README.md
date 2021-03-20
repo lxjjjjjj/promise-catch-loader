@@ -1,6 +1,7 @@
 # vue-promise-catch-loader
 减轻代码负担，解析vue模版给promise的then添加catch模块
 使用示例
+```
 module: {
     rules: [
       {
@@ -12,4 +13,5 @@ module: {
       }
     ]
   },
+```
 // catchCode 是自定义在catch模块内的内容
