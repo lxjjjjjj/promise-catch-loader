@@ -14,4 +14,4 @@ module: {
     ]
   },
 ```
-// catchCode 是自定义在catch模块内的内容
+catchCode 是自定义在catch模块内的内容
