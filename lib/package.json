@@ -1,5 +1,5 @@
 {
-  "name": "promise-catch-loader",
+  "name": "vue-promise-catch-loader",
   "version": "1.0.0",
   "description": "减轻代码负担，解析vue模版给promise的then添加catch模块",
   "main": "./index.js",
